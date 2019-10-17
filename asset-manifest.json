@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/react-flex/static/css/main.b100e6da.chunk.css",
-    "main.js": "/react-flex/static/js/main.0f8d2b9d.chunk.js",
-    "main.js.map": "/react-flex/static/js/main.0f8d2b9d.chunk.js.map",
+    "main.css": "/react-flex/static/css/main.dd858cd6.chunk.css",
+    "main.js": "/react-flex/static/js/main.831b094f.chunk.js",
+    "main.js.map": "/react-flex/static/js/main.831b094f.chunk.js.map",
     "runtime-main.js": "/react-flex/static/js/runtime-main.05ee5a8f.js",
     "runtime-main.js.map": "/react-flex/static/js/runtime-main.05ee5a8f.js.map",
-    "static/js/2.2428c8c9.chunk.js": "/react-flex/static/js/2.2428c8c9.chunk.js",
-    "static/js/2.2428c8c9.chunk.js.map": "/react-flex/static/js/2.2428c8c9.chunk.js.map",
+    "static/css/2.bed9992d.chunk.css": "/react-flex/static/css/2.bed9992d.chunk.css",
+    "static/js/2.5da1a7f0.chunk.js": "/react-flex/static/js/2.5da1a7f0.chunk.js",
+    "static/js/2.5da1a7f0.chunk.js.map": "/react-flex/static/js/2.5da1a7f0.chunk.js.map",
     "index.html": "/react-flex/index.html",
-    "precache-manifest.496b325da034d11cb2423d32fcefe843.js": "/react-flex/precache-manifest.496b325da034d11cb2423d32fcefe843.js",
+    "precache-manifest.106696f23c3447282d6b3cd7c26a4562.js": "/react-flex/precache-manifest.106696f23c3447282d6b3cd7c26a4562.js",
     "service-worker.js": "/react-flex/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/react-flex/static/css/main.b100e6da.chunk.css.map"
+    "static/css/2.bed9992d.chunk.css.map": "/react-flex/static/css/2.bed9992d.chunk.css.map",
+    "static/css/main.dd858cd6.chunk.css.map": "/react-flex/static/css/main.dd858cd6.chunk.css.map",
+    "static/media/slick-theme.css": "/react-flex/static/media/slick.f97e3bbf.svg"
   }
 }
